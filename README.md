@@ -2,16 +2,11 @@
 
 ## How To Use The Module
 To Know how to use, Go to: https://sites.google.com/view/soundmusic
-
------Credits-----
-
-Built using: PyGame;
-
-Built by: Sancho Godinho;
-
-Built in language: Python;
-
-
+<p>
+  Credits:
+  Built Language: Python.
+  Bult Module: Pygame.
+  </p>
 -----Install sound_music-----
 1. Download the Module (Zip File)
 2. Extract the Zip.
