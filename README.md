@@ -1,15 +1,31 @@
-# This is a simple module built in python using pygame.
+# sound_music
 
-## How To Use The Module
-To Know how to use, Go to: https://sites.google.com/view/soundmusic
-<p>
-  Credits:
-  Built Language: Python.
-  Bult Module: Pygame.
-  </p>
------Install sound_music-----
-1. Download the Module (Zip File)
-2. Extract the Zip.
-3. Go to the Extracted Folder.
-4. Run command: 'python setup.py install'.
-5. Enjoy Playing the Music!
+[sound_music](https://github.com/sancho1952007/sound_music) is a Python library for playing music using python.
+
+## Installation:-
+
+```bash
+python setup.py install
+```
+
+## Usage:-
+
+```python
+import sound_music
+sound_music.play('your-music.mp3')
+```
+
+## Play Music in your current Directory:-
+
+```bash
+python -m sound_music
+```
+## For Help:-
+
+#### Visit - [https://sites.google.com/view/soundmusic](https://sites.google.com/view/soundmusic)
+
+## Credits:-
+
+Developer: [Sancho Godinho](https://github.com/sancho1952007).  
+Built Using: [Pygame](https://pygame.org).  
+Built Language: [python](https://python.org).
