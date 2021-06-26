@@ -7,8 +7,13 @@
 ```bash
 python setup.py install
 ```
-
 ## Usage:-
+```python
+from sound_music import *
+play()
+```
+
+## Example:-
 
 ```python
 import sound_music
