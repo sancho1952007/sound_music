@@ -4,12 +4,6 @@
 
 ## Installation:-
 
-### Using Pip:
-```bash
-pip install -i https://test.pypi.org/simple/ sound-music==1.0
-```
-
-### If You Manually Download The Project Files:
 ```bash
 python setup.py install
 ```
@@ -40,5 +34,3 @@ python -m sound_music
 Developer: [Sancho Godinho](https://github.com/sancho1952007).  
 Built Using: [Pygame](https://pygame.org).  
 Built Language: [python](https://python.org).
-
-## **Please Note: sound_music is currently Under Test Pypi. In the Future It Will Be Included in Original Pypi**
