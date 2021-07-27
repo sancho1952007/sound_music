@@ -1,4 +1,4 @@
-# sound_music
+# [sound_music](https://github.com/sancho1952007/sound_music)
 
 [sound_music](https://github.com/sancho1952007/sound_music) is a Python library for playing music using python.
 
